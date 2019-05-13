@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-12T15:19:44.469Z</updated>
+  <updated>2019-05-13T03:07:13.766Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Algothrim</title>
+    <link href="http://yoursite.com/2019/05/13/Algothrim/"/>
+    <id>http://yoursite.com/2019/05/13/Algothrim/</id>
+    <published>2019-05-13T03:04:00.000Z</published>
+    <updated>2019-05-13T03:07:13.766Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="算法"><a href="#算法" class="headerlink" title="算法"></a>算法</h1><h2 id="何为算法"><a href="#何为算法" class="headerlink" title="何为算法"></a>何为算法</h2><h2 id="算法的伪代码"><a href="#算法的伪代码" class="headerlink" title="算法的伪代码"></a>算法的伪代码</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;算法&quot;&gt;&lt;a href=&quot;#算法&quot; class=&quot;headerlink&quot; title=&quot;算法&quot;&gt;&lt;/a&gt;算法&lt;/h1&gt;&lt;h2 id=&quot;何为算法&quot;&gt;&lt;a href=&quot;#何为算法&quot; class=&quot;headerlink&quot; title=&quot;何为算法&quot;&gt;&lt;/a&gt;何为算法&lt;/h
+      
+    
+    </summary>
+    
+      <category term="Study" scheme="http://yoursite.com/categories/Study/"/>
+    
+      <category term="Algothrim" scheme="http://yoursite.com/categories/Study/Algothrim/"/>
+    
+      <category term="IT" scheme="http://yoursite.com/categories/Study/Algothrim/IT/"/>
+    
+    
+      <category term="Algothrim" scheme="http://yoursite.com/tags/Algothrim/"/>
+    
+      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>test_my_site</title>
