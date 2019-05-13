@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://senghin.top/"/>
-  <updated>2019-05-13T03:07:13.766Z</updated>
+  <updated>2019-05-13T12:37:30.083Z</updated>
   <id>https://senghin.top/</id>
   
   <author>
@@ -17,58 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Algothrim</title>
-    <link href="https://senghin.top/2019/05/13/Algothrim/"/>
-    <id>https://senghin.top/2019/05/13/Algothrim/</id>
-    <published>2019-05-13T03:04:00.000Z</published>
-    <updated>2019-05-13T03:07:13.766Z</updated>
+    <title>Hello Blog</title>
+    <link href="https://senghin.top/2019/05/13/Hello-Blog/"/>
+    <id>https://senghin.top/2019/05/13/Hello-Blog/</id>
+    <published>2019-05-13T12:14:00.000Z</published>
+    <updated>2019-05-13T12:37:30.083Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="算法"><a href="#算法" class="headerlink" title="算法"></a>算法</h1><h2 id="何为算法"><a href="#何为算法" class="headerlink" title="何为算法"></a>何为算法</h2><h2 id="算法的伪代码"><a href="#算法的伪代码" class="headerlink" title="算法的伪代码"></a>算法的伪代码</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;算法&quot;&gt;&lt;a href=&quot;#算法&quot; class=&quot;headerlink&quot; title=&quot;算法&quot;&gt;&lt;/a&gt;算法&lt;/h1&gt;&lt;h2 id=&quot;何为算法&quot;&gt;&lt;a href=&quot;#何为算法&quot; class=&quot;headerlink&quot; title=&quot;何为算法&quot;&gt;&lt;/a&gt;何为算法&lt;/h
-      
-    
-    </summary>
-    
-      <category term="Study" scheme="https://senghin.top/categories/Study/"/>
-    
-      <category term="Algothrim" scheme="https://senghin.top/categories/Study/Algothrim/"/>
-    
-      <category term="IT" scheme="https://senghin.top/categories/Study/Algothrim/IT/"/>
-    
-    
-      <category term="Algothrim" scheme="https://senghin.top/tags/Algothrim/"/>
-    
-      <category term="算法" scheme="https://senghin.top/tags/%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test_my_site</title>
-    <link href="https://senghin.top/2019/05/12/test-my-site/"/>
-    <id>https://senghin.top/2019/05/12/test-my-site/</id>
-    <published>2019-05-12T12:40:58.000Z</published>
-    <updated>2019-05-12T15:19:44.469Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><p><strong>test my blog</strong></p><p>Welcome to my blog.</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="新博客"><a href="#新博客" class="headerlink" title="新博客"></a>新博客</h2><h3 id="这是我的第一篇真正意义上的博客-欢迎来踩点"><a href="#这是我的第一篇真正意义上的博客-欢迎来踩点" class="headerlink" title="这是我的第一篇真正意义上的博客,欢迎来踩点."></a>这是我的第一篇真正意义上的博客,欢迎来踩点.</h3><p><img src="/2019/05/13/Hello-Blog/images%5Cpikaqiu.jpg" alt="皮卡丘"></p><p>从周六到现在,中间删删改改,换了好几个主题,改了一些配置,还好最后终于成功入坑了.</p><p>以后会不定期的发布些跟编程有关的内容,当然也会写些随想了!</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;test my blog&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Welcome to my blog.&lt;/p&gt;
-
+        &lt;h2 id=&quot;新博客&quot;&gt;&lt;a href=&quot;#新博客&quot; class=&quot;headerlink&quot; title=&quot;新博客&quot;&gt;&lt;/a&gt;新博客&lt;/h2&gt;&lt;h3 id=&quot;这是我的第一篇真正意义上的博客-欢迎来踩点&quot;&gt;&lt;a href=&quot;#这是我的第一篇真正意义上的博客-欢迎来踩点&quot; class
       
     
     </summary>
     
     
-      <category term="test" scheme="https://senghin.top/tags/test/"/>
+      <category term="show" scheme="https://senghin.top/tags/show/"/>
     
   </entry>
   
@@ -76,8 +43,8 @@
     <title>Hello World</title>
     <link href="https://senghin.top/2019/05/12/hello-world/"/>
     <id>https://senghin.top/2019/05/12/hello-world/</id>
-    <published>2019-05-12T12:37:12.401Z</published>
-    <updated>2019-05-12T12:37:12.401Z</updated>
+    <published>2019-05-12T12:37:00.000Z</published>
+    <updated>2019-05-13T12:21:23.080Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
